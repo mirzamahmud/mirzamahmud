@@ -7,8 +7,15 @@
 # About Me:
 🔭 I am currently working on Flutter Mobile App Development.<br>🌱 I’m currently learning Flutter, Dart.<br>💬 Ask me about Java, Dart, Flutter, Python<br>📫 How to reach me mirzamahmud.cse.bubt202@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/mirza-mahmud-hossan-477697211
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mirza-mahmud-hossan-477697211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19278134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+<a href="https://facebook.com/piyash.mirza.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Piyash_Mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
 
-# Connect with me:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/piyash.mirza.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-mahmud-hossan-477697211) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19278134) 
 
 # Languages and Tools:
