@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Mahmud Hossan</h1>
 <h3 align="center">A programmer who is enthusiastic about designing and creating Mobile APIs and who loves to code. In my own opinion, Java is great. I'm now learning Go Lang while using a Dart. I like using the Flutter framework for my work.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzamahmud&label=Profile%20views&color=0e75b6&style=flat" alt="mirzamahmud" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzamahmud" alt="mirzamahmud" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
