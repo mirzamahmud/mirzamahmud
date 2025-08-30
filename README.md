@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-<p align="center">
+<p align="left">
 I’m a passionate Mobile App Developer with 3+ years of hands-on experience in building high-performance, scalable applications using Flutter and React-Native for cross-platform apps and Java/Kotlin for native Android development.
 
 Over the years, I’ve contributed to multiple apps from scratch to production, delivering smooth UI/UX, clean architecture, and reliable performance. I enjoy solving real-world problems through clean code, user-focused design, and robust backend integration (REST APIs, Firebase).
@@ -34,20 +34,20 @@ Over the years, I’ve contributed to multiple apps from scratch to production, 
 ---
 
 ### ⚒️ Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,dart,kotlin,flutter,react,firebase,mysql,sqlite,androidstudio,vscode,figma" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mirzamahmud&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzamahmud&theme=radical" alt="GitHub Streak" />
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzamahmud&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
