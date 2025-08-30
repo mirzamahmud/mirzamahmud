@@ -44,16 +44,11 @@ Over the years, I’ve contributed to multiple apps from scratch to production, 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mirzamahmud&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzamahmud&theme=radical" alt="GitHub Streak" />
 </p>
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzamahmud&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirzamahmud&theme=onedark&row=1&column=7" alt="Trophies" />
-</p>
