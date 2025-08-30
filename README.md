@@ -1,4 +1,4 @@
-\<h1 align="center">Hi 👋, I'm Mirza Mahmud Hossan</h1>
+<h1 align="center">Hi 👋, I'm Mirza Mahmud Hossan</h1>
 <h3 align="center">Mobile App Developer | Native, Flutter, & React Native | 3+ Years Experience | Java, Dart, & Kotlin </h3>
 
 ---
