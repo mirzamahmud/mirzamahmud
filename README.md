@@ -47,11 +47,3 @@ Over the years, I’ve contributed to multiple apps from scratch to production, 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzamahmud&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-<p align="left">
-  <a herf="https://github.com/ryo-ma/github-profile-tropy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mirzamahmud" alt="mirzamahmud"/> 
-  </a>
-</p>
