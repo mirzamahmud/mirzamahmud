@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mirza Mahmud Hossan</h1>
+\<h1 align="center">Hi 👋, I'm Mirza Mahmud Hossan</h1>
 <h3 align="center">Mobile App Developer | Native, Flutter, & React Native | 3+ Years Experience | Java, Dart, & Kotlin </h3>
 
 ---
@@ -24,10 +24,10 @@ Over the years, I’ve contributed to multiple apps from scratch to production, 
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mirzamahmudhossan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.github.com/mirzamahmud/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
